@@ -1,0 +1,5 @@
+# 忽略
+*.skill
+*.zip
+.DS_Store
+Thumbs.db
